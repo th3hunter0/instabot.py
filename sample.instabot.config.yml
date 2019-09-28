@@ -3,14 +3,13 @@ login : "username"
 password : "password"
 debug: 0
 follow_time: 604800
-like_per_day: 709
-comments_per_day: 31
+like_per_run: 669
+comments_per_day: 24
 max_like_for_one_tag: 36
-follow_per_day: 260
-follow_time: 36000
-unfollow_per_day: 247
+follow_per_run: 101
+unfollow_per_run: 100
 unfollow_break_min: 3
-unfollow_break_max: 17
+unfollow_break_max: 9
 unfollow_selebgram: false
 unfollow_probably_fake: true
 unfollow_inactive: true
